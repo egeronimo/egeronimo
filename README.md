@@ -14,8 +14,6 @@ Business Intelligence • Commercial Transformation • Decision Intelligence
 Founder @ BPTrack SRL | Creator of DASHMIND Framework™
 </p>
 
-# Erick Geronimo Mateo
-
 ## Business Manager & Strategist
 
 Specialized in:
