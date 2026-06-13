@@ -95,6 +95,14 @@ Business Intelligence and operational transformation.
 
 ## Connect
 
-- LinkedIn
-- BPTrack SRL
-- Email
+- LinkedIn: https://www.linkedin.com/in/erickgeronimo/
+- BPTrack SRL: https://bptrack.net/
+- Email: egeronimo@bptrack.net
+
+---
+
+## GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=egeronimo&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=egeronimo&layout=compact)
