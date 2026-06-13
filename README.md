@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.jpg" width="100%">
+</p>
+
 # Erick Geronimo Mateo
 
 ### Business Intelligence • Commercial Transformation • Decision Intelligence
