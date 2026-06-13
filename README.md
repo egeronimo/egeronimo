@@ -1,3 +1,19 @@
+<p align="center">
+  <img src="assets/banner.jpg" width="100%">
+</p>
+
+<h1 align="center">
+Erick Geronimo Mateo
+</h1>
+
+<p align="center">
+Business Intelligence • Commercial Transformation • Decision Intelligence
+</p>
+
+<p align="center">
+Founder @ BPTrack SRL | Creator of DASHMIND Framework™
+</p>
+
 # Erick Geronimo Mateo
 
 ## Business Manager & Strategist
