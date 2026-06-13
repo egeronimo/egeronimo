@@ -1,97 +1,114 @@
-<p align="center">
-  <img src="assets/banner.jpg" width="100%">
-</p>
+# Erick Geronimo Mateo
 
-<h1 align="center">
-Erick Geronimo Mateo
-</h1>
+### Business Intelligence • Commercial Transformation • Decision Intelligence
 
-<p align="center">
-Business Intelligence • Commercial Transformation • Decision Intelligence
-</p>
-
-<p align="center">
-Founder @ BPTrack SRL | Creator of DASHMIND Framework™
-</p>
-
-## Business Manager & Strategist
-
-Specialized in:
-
-- Business Intelligence
-- Commercial Transformation
-- KPI Management
-- Data Analytics
-- Sales Engineering
-- AI-Powered Decision Systems
+Founder of **BPTrack SRL** | Creator of **DASHMIND Framework™**
 
 ---
 
-## About Me
+## Who I Am
 
-I transform business data into operational intelligence.
+I help organizations transform operational data into strategic decisions.
 
-My work focuses on helping organizations improve decision-making through:
+My work combines business strategy, commercial intelligence, analytics, process optimization and artificial intelligence to improve organizational performance.
 
-- Strategic Dashboards
-- Commercial Intelligence
-- Process Optimization
-- Predictive Analytics
-- KPI Architecture
+Through BPTrack SRL and the DASHMIND Framework™, I design systems that connect data, people, processes and technology into measurable business results.
+
+---
+
+## BPTrack SRL
+
+Business Intelligence and Strategic Management Firm.
+
+### Our Methodology
+
+**Diagnose → Validate → Direct**
+
+We help organizations:
+
+* Detect hidden losses and operational inefficiencies
+* Improve commercial productivity
+* Optimize sales territories and routes
+* Improve portfolio management
+* Increase visibility across the entire operation
+* Build data-driven cultures
 
 ---
 
 ## DASHMIND Framework™
 
-A Decision Intelligence methodology designed to transform traditional dashboards into action-oriented business systems.
+A Decision Intelligence Architecture designed to transform traditional dashboards into business operating systems.
 
-Core Components:
+### Core Components
 
-- DASHMIND KPI Architecture™
-- DASHMIND UX Standard™
-- DASHMIND Agents™
-- Operational Intelligence Layer™
+* DASHMIND KPI Architecture™
+* DASHMIND UX Standard™
+* DASHMIND Agents™
+* Operational Intelligence Layer™
+* Executive Decision Layer™
+
+### Philosophy
+
+Data → Insight → Decision → Action → Impact
 
 ---
 
-## Featured Projects
+## Featured Initiatives
 
-### Commercial Intelligence Dashboard
-Sales analytics and business performance monitoring.
+### DashMaster™
+
+Commercial Intelligence Platform focused on sales performance, profitability, inventory and budget control.
+
+### BiPi™
+
+AI-powered business assistant capable of transforming business questions into actionable insights.
 
 ### Telemarketing Monitoring System
-AI-powered call evaluation and sentiment analysis.
+
+Automatic call transcription, sentiment analysis and script compliance monitoring.
 
 ### Route Optimization Engine
-Sales territory planning and route optimization.
 
-### BPTrack Business Solutions
-Business Intelligence and operational transformation.
+Commercial territory design and sales route optimization.
+
+### Commercial Intelligence Dashboards
+
+Decision-oriented dashboards designed to drive business performance.
 
 ---
 
 ## Technologies
 
-### Data & Analytics
+### Business Intelligence
 
-- Python
-- SQL
-- Pandas
-- NumPy
-- Streamlit
-- Power BI
+* Power BI
+* Streamlit
+* Python
+* SQL
+
+### Data Analytics
+
+* Pandas
+* NumPy
+* OpenPyXL
 
 ### Artificial Intelligence
 
-- OpenAI
-- Whisper
-- LangChain
+* OpenAI
+* Whisper
+* LangChain
 
-### Business Systems
+### Enterprise Systems
 
-- ERPNext
-- Frappe
-- POS Awesome
+* ERPNext
+* Frappe Framework
+* POS Awesome
+
+### Cloud & Infrastructure
+
+* GitHub
+* Google Cloud
+* PythonAnywhere
 
 ---
 
@@ -101,22 +118,26 @@ Business Intelligence and operational transformation.
 >
 > Information without action is waste.
 >
-> The goal is not to build dashboards.
+> Dashboards do not create value.
 >
-> The goal is to improve decisions.
-
----
-
-## Connect
-
-- LinkedIn: https://www.linkedin.com/in/erickgeronimo/
-- BPTrack SRL: https://bptrack.net/
-- Email: egeronimo@bptrack.net
+> Better decisions do.
 
 ---
 
 ## GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=egeronimo&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=egeronimo\&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=egeronimo&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=egeronimo\&layout=compact)
+
+---
+
+## Connect
+
+📧 [info@bptrack.net](mailto:info@bptrack.net)
+
+🌐 BPTrack SRL
+
+📍 Dominican Republic
+
+Business Intelligence • Commercial Transformation • Decision Intelligence
